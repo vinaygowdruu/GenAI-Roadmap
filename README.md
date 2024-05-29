@@ -11,22 +11,22 @@ Complete Python Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video
 
 ## 2. Version Control(Git, Github)
 
-![image](https://github.com/vinaygowdruu/GenAI/assets/147151223/b4320858-7e64-49ee-9f85-9447822f569f)
+![image](https://github.com/vinaygowdruu/GenAI-Roadmap/assets/147151223/4561461b-aefb-4e89-ace9-2e29b4868041)
+
 
 Version control Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/playlist?list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx)
 
 
 ## 3. Math & Statistics for AI
 
-![image](https://github.com/vinaygowdruu/GenAI/assets/147151223/fcb5851b-a173-4773-ae5f-ff6b1fe5ac93)
-
+![image](https://github.com/vinaygowdruu/GenAI-Roadmap/assets/147151223/1c2b790c-c3f4-4660-990f-dcb83e192924)
 
 Statistics Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/@statquest)
 
 
 ## 4. Machine Learning   [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=i_LwzRVP7bg&list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s)
 
-![image](https://github.com/vinaygowdruu/GenAI/assets/147151223/2b2d3d42-6031-4a57-b6b2-bccfdbd30365)
+![image](https://github.com/vinaygowdruu/GenAI-Roadmap/assets/147151223/d058ca3b-6ac9-4d0f-a2dc-9779e7b1ed2d)
 
 
 1. Pytorch
@@ -37,7 +37,7 @@ Statistics Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-gree
 
 ## 5. ML Ops ⚙️ [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/@statquest)
 
-![image](https://github.com/vinaygowdruu/GenAI/assets/147151223/2b47ff0e-dbcf-4d2c-8d68-fc1fc9e28444)
+![image](https://github.com/vinaygowdruu/GenAI-Roadmap/assets/147151223/0ad4d226-44d7-4123-8400-749408aba806)
 
 
 
@@ -48,7 +48,8 @@ Statistics Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-gree
 
 ## 6. Deep Learning [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=zxagGtF9MeU&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
 
-![image](https://github.com/vinaygowdruu/GenAI/assets/147151223/0d8944da-c8f7-46d9-8d9d-cf2c36af7cd7)
+![image](https://github.com/vinaygowdruu/GenAI-Roadmap/assets/147151223/d91b76ca-966d-4885-a28e-e0ac555da8be)
+
 
 
 1. ANN - Working Of MultiLayered Neural Network
@@ -59,17 +60,16 @@ Statistics Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-gree
 
 ## 7. Prompt Engineering
 
-![image](https://github.com/vinaygowdruu/GenAI/assets/147151223/f2e6fc64-8c97-4866-9dbd-a0784a753456)
+![image](https://github.com/vinaygowdruu/GenAI-Roadmap/assets/147151223/0ba3613d-41df-45d9-89d6-ec1ad9d655bd)
 
 
 Langchain Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=5-fc4Tlgmro&list=PLVEEucA9MYhOu89CX8H3MBZqayTbcCTMr)
 
-![image](https://github.com/vinaygowdruu/GenAI/assets/147151223/ad7af33b-de2c-4bd2-876e-2d6ced3456a1)
-
+![image](https://github.com/vinaygowdruu/GenAI-Roadmap/assets/147151223/2ce17865-e72c-4d1c-a5e6-4e0ad25153f1)
 
 Llama 2 Playlist:   [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=LslC2nKEEGU&list=PLVEEucA9MYhMkc4HvgHw-TvycgoMhADOI)
 
-![image](https://github.com/vinaygowdruu/GenAI/assets/147151223/b84fd3ec-c7e6-4096-9d44-5e4240dff42a)
+![image](https://github.com/vinaygowdruu/GenAI-Roadmap/assets/147151223/95241c11-fcad-4ccb-8be7-a84f91a176b3)
 
 
 Mistral Playlist:   [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=MGr1V4LyGFA&list=PLVEEucA9MYhMD4lZRYZrQORojyioYN-Ue)
@@ -77,16 +77,15 @@ Mistral Playlist:   [![YouTube](https://img.shields.io/badge/YouTube-Video-green
 
 ## 8. Vector Databases [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=AY62z7HrghY&list=PLIUOU7oqGTLhlWpTz4NnuT3FekouIVlqc)
 
-![image](https://github.com/vinaygowdruu/GenAI/assets/147151223/b1133f2f-e557-4e76-8eea-29462d81344a)
-
+![image](https://github.com/vinaygowdruu/GenAI-Roadmap/assets/147151223/a1efc459-ea38-433c-9f78-4f55111a79d6)
 
 1. Similarity Search
 2. Quantisation
 3. Indexes
 
 ## 9. Building Apps with LLM [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=NYSWn1ipbgg&list=PL-Y17yukoyy3zzoMJNkWQuogKbWGyBL-d)
-![image](https://github.com/vinaygowdruu/GenAI/assets/147151223/af8f5ee4-f132-4d41-86c8-6cd2492d1fe2)
 
+![image](https://github.com/vinaygowdruu/GenAI-Roadmap/assets/147151223/b0ae7e48-0c06-404b-88aa-651b70cc66b7)
 
 
 
