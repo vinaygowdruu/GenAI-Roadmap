@@ -35,7 +35,7 @@ Statistics Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-gree
 4. Scikit Learn
 
 
-## 5. ML Ops ⚙️ [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/@statquest)
+## 5. ML Ops ⚙️ [![YouTube](https://img.shields.io/badge/YouTube-Video-green)]([https://www.youtube.com/@statquest](https://www.youtube.com/watch?v=NgWujOrCZFo&list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK))
 
 ![image](https://github.com/vinaygowdruu/GenAI-Roadmap/assets/147151223/0ad4d226-44d7-4123-8400-749408aba806)
 
